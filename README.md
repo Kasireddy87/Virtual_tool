@@ -29,8 +29,7 @@ Kasireddy Shirisha
 
 ## Demo ScreenShots
 
-https://github.com/Kasireddy87/Virtual_tool/blob/3b0677ec8b9234ecca450e25d73aa7489b05ccbd/gesture/drawing_1749085502.png
-
+![image_alt](https://github.com/Kasireddy87/Virtual_tool/blob/3b0677ec8b9234ecca450e25d73aa7489b05ccbd/gesture/drawing_1749085502.png)
 
 ## Installation & Usage
 

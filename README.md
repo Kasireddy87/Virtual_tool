@@ -22,6 +22,9 @@ A real-time interactive whiteboard application using hand gestures captured by y
 
 ---
 
+👨‍💻 Author
+Kasireddy Shirisha
+
 ## Installation & Usage
 
 ### Requirements
@@ -36,7 +39,6 @@ Install dependencies using pip:
 ```bash
 pip install opencv-python mediapipe numpy
 
-👨‍💻 Author
-Kasireddy Shirisha
+
 
 
